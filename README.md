@@ -1,2 +1,2 @@
 # hello
-first git hub code
+first git hub code and commit
